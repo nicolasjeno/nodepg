@@ -1,0 +1,24 @@
+{
+  "name": "midterm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-nodepg": "node index.js",
+    "nicolas_prob1": "nicolas_prob1.js",
+    "nicolas_prob2": "nicolas_prob2.js",
+    "nicolas_prob3": "nicolas_prob3.js",
+    "nicolas_prob4": "nicolas_prob4.js",
+    "nicolas_prob5": "nicolas_prob5.js",
+    "nicolas_prob6": "nicolas_prob6.js",
+    "nicolas_prob7": "nicolas_prob7.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  }
+}
